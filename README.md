@@ -1,10 +1,6 @@
-# 🎮 Dashboard de Vendas Xbox Game Pass – Desafio DIO & Santander
+# 📊 DIO | Desafio: Dashboard de Vendas no Excel
 
-[![Excel Powered](https://img.shields.io/badge/Excel-Dashboard-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
-[![Projeto Concluído](https://img.shields.io/badge/Status-Concluído-22c55e?style=flat-square)]()
-[![Bootcamp Santander](https://img.shields.io/badge/Bootcamp-Santander%20+%20DIO-blueviolet?style=flat-square)](https://web.dio.me)
-
-Este repositório contém minha solução para o **Desafio do Bootcamp Santander – Excel com Inteligência Artificial**, da [Digital Innovation One (DIO)](https://web.dio.me). O desafio foi construir um **Dashboard de Vendas em Excel**, utilizando dados fictícios relacionados às assinaturas do Xbox Game Pass.
+Olá! Seja bem-vindo(a) ao repositório do meu desafio prático no **Bootcamp Santander - Excel com Inteligência Artificial**, uma iniciativa da [Digital Innovation One](https://web.dio.me). Este projeto tem como objetivo **criar um Dashboard de Vendas totalmente funcional e visualmente intuitivo no Excel**, com base em dados de assinaturas e produtos relacionados ao serviço Xbox Game Pass.
 
 ---
 
